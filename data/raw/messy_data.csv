@@ -1,0 +1,7 @@
+id,name,email,join_date,salary
+1,  Tanvi  ,tanvi@email.com,2024-01-15,50000
+2,Rahul,rahul@email.com,15/02/2024,60000
+3, Priya ,,2024/03/10,55000
+4,Aman,aman@email.com,,45000
+5,Tanvi,tanvi@email.com,2024-01-15,50000
+6,John,john@email,invalid-date,70000

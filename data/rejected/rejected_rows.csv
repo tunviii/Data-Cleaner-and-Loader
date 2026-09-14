@@ -1,0 +1,4 @@
+rejected_df.to_csv(
+    "data/rejected/rejected_rows.csv",
+    index=False
+)
